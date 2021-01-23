@@ -1,0 +1,12 @@
+
+conclusions on city schools:
+
+1. charter schools tend to have a better formance than district school. top 5 are all from charter and bottom 5 are all district school. 
+   This is also inline with the result from scores by school types. The average scores in Math and Reading, as well as % passing from 
+   charter schools are higher than district school. 
+
+2. Interstingling everage spending per student does not guarantee better performance.
+
+3.  Smaller school tends to have higher passing rate from report. 
+
+4. Same school tends to have consistant performance over different grade. 
